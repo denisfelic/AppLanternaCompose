@@ -1,0 +1,5 @@
+- [x] Adds Toggle lantern
+- [ ] Shaking phone gesture detection
+- [ ] Toggle lantern on gesture
+- [ ] Run in background
+- [ ] Make more meaninful UI
